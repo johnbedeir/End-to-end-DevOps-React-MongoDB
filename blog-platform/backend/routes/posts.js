@@ -10,8 +10,8 @@ const Post = require('../models/Post'); // Import your Post model
 const s3 = new S3Client({
   region: "eu-central-1",
   credentials: {
-    accessKeyId: "AKIA2HE2YEL7CHQYQHZX",
-    secretAccessKey: "cC4qdUsvY0BVTSHloLKx9hyufkg7ZJcnZTDSTHvP",
+    accessKeyId: "",
+    secretAccessKey: "",
   },
 });
 
