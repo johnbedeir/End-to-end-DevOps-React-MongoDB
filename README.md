@@ -100,10 +100,6 @@ By default, uploaded files are stored in the `uploads` directory within the `bac
 - [Express.js](https://expressjs.com/) - The back-end framework used
 - [MongoDB](https://www.mongodb.com/) - The database used
 
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
 create the app:
 npx create-react-app blog-platform
 
